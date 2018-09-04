@@ -2,8 +2,8 @@
 layout: article
 title: solidworks二次开发之圆的创建
 key: 10002
-tags: blog
-category: solidworks
+tags: solidworks
+category:blog 
 date: 2018/9/4 星期二 20:45:44  
 modify_date: 2018/9/4 星期二 20:45:49 
 ---
