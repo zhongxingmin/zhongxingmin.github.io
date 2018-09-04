@@ -31,8 +31,10 @@ solidworks二次开发创建圆的几种命令
     End Sub
 其中用到的命令有：
 
-> PerimeterCircle（x1,y1,x2,y2,x3,y3）‘三点确定一个圆  
-> CreateCircle（x1,y1,z1,x2,y2,z2）‘圆心和圆上一点确定一个圆
-> CreateCircleByRadius(x,y,z,radius)‘圆心和半径确定一个圆
+> PerimeterCircle（x1,y1,x2,y2,x3,y3）三点确定一个圆 
+
+> CreateCircle（x1,y1,z1,x2,y2,z2）圆心和圆上一点确定一个圆
+
+> CreateCircleByRadius(x,y,z,radius)圆心和半径确定一个圆
 
  
