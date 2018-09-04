@@ -7,7 +7,9 @@ category: solidworks
 date: 2018/9/4 星期二 20:45:44  
 modify_date: 2018/9/4 星期二 20:45:49 
 ---
-##Solidworks二次开发草图之圆的创建
+#Solidworks二次开发草图之圆的创建#
+solidworks二次开发创建圆的几种命令
+<!--more-->
 操作示例：创建一个带圆的草图
 ![示例图片](http://http://pefhlapw5.bkt.clouddn.com/createcricle.PNG)
 
