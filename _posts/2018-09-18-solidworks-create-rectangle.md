@@ -19,9 +19,10 @@ modify_date: 2018/9/3 星期一 23:01:00
 
 
 
- Public Class Form1
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click '创建边角矩形
+ 
 
+    Public Class Form1
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click '创建边角矩形
         Dim sketchmer1 As SldWorks.SketchManager
         sketchmer1 = Getsketcher()
         sketchmer1.InsertSketch(True)
