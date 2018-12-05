@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 圆的创建
+title: 【草图】圆的创建
 key: 10002
 tags: blog
 category: blog
@@ -25,9 +25,6 @@ modify_date: 2018/9/3 星期一 23:01:00
 
 操作示例：
 
-
-![示例图片](http://pefhlapw5.bkt.clouddn.com/createcricle.PNG)
- 
 
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
