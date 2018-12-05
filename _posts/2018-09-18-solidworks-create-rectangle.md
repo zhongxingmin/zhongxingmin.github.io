@@ -1,8 +1,8 @@
 ---
 layout: article
-title: 矩形的创建
+title: 【草图】矩形的创建
 key: 10003
-tags: solidworks
+tags: SolidworksAPI
 category: blog
 date: 2018/9/3 星期一 23:00:53 
 modify_date: 2018/9/3 星期一 23:01:00 
