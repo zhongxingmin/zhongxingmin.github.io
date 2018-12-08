@@ -33,7 +33,7 @@ timezone: Asia/Hangzhou
 ##############################
 author:
   name: Zhong Xingmin
-  email: zhongxingmin6@hotmail.com
+  email: zhongxingmin@hotmail.com
   twitter: zhongxingmin
   github:  zhongxingmin
   googleplus:  
@@ -50,7 +50,7 @@ repository_tree: master
 ## => Paths
 ##############################
 paths:
-  root: /
+  root: /blog
   home: /blog
   archive: /blog/archive.html
   rss:  /feed.xml
