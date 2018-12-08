@@ -95,7 +95,7 @@ pageview:
 analytics:
   provider: google
   google:
-    tracking_id: UA-71907556-1
+    tracking_id: UA-130632634-1
 
 
 ## => Build
