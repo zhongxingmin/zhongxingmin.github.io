@@ -26,7 +26,7 @@ description: >
 ## => Language and Timezone
 ##############################
 lang: zh
-timezone: Asia/Hangzhou
+timezone: Asia/Shanghai
 
 
 ## => Author and Social
@@ -75,9 +75,15 @@ paginate_path: /blog/page:num
 ## => Comments
 ##############################
 comments:
-  provider: disqus
-  disqus:
-    shortname: zhongxingmin-github-io
+  provider: gitalk
+  gitalk:
+    clientID    : "github-application-client-id"
+    clientSecret: "github-application-client-secret"
+    repository  : "github-repo"
+    owner       : "github-repo-owner"
+    admin: # Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+      - "your-github-id"
+      - "the-other-admin-github-id"
 
 
 ## => Pageview
