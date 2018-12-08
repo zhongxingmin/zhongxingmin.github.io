@@ -63,10 +63,26 @@ excerpt_type: html # text (default), html
 ## license
 license: CC-BY-4.0
 
+## TOC
+toc:
+  selectors: "h1,h2,h3" 
+  
+## => Markdown Enhancements
+##############################
+## Mathjax
+mathjax:  true
+mathjax_autoNumber: true
 
+## Mermaid
+mermaid:  true
+
+## Chart
+chart:  true
+  
+  
 ## => Paginate
 ##############################
-paginate: 7
+paginate: 8
 paginate_path: /blog/page:num
 
 
