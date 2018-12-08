@@ -34,9 +34,7 @@ timezone: Asia/Shanghai
 author:
   name: Zhong Xingmin
   email: zhongxingmin@hotmail.com
-  twitter: zhongxingmin
   github:  zhongxingmin
-  googleplus:  
   weibo: 3822953809
   douban: 113270381
 
@@ -78,7 +76,7 @@ comments:
  comments:
   provider: disqus
   disqus:
-    shortname: "zhongxinghmin-github-io"
+    shortname: "zhongxingmin-github-io"
 
 
 ## => Pageview
