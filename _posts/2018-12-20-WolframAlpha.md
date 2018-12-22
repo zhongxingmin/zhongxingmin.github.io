@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 工程应用中计算理论走线量的方法
+title: 计算走线量
 key: 10004
 tags: blog
 category: blog
