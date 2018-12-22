@@ -2,7 +2,7 @@
 layout: article
 title: 【WolframAlpha】工程应用中计算理论走线量的方法
 key: 10004
-tags: 善用佳软
+tags: WolframAlpha
 category: blog
 date: 2018/12/21 星期五 24:00:53 
 modify_date: 2018/12/21 星期五 24:00:53 
